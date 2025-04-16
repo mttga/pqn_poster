@@ -1,0 +1,7 @@
+**/__pycache__
+*.egg-info/
+mkposters/build/
+mkposters/dist/
+mkposters/mkposters/third_party/*
+build/
+dist/
