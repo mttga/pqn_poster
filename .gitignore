@@ -2,6 +2,4 @@
 *.egg-info/
 mkposters/build/
 mkposters/dist/
-mkposters/mkposters/third_party/*
-build/
-dist/
+mkposters/third_party/dart-sass/*
